@@ -4,7 +4,7 @@ const clientSecret = "0V21IXU0EETE3SZJGGCP4T4R13NUTBJ0LMI5WQY45IMDPEKY";
 const url = "https://api.foursquare.com/v2/venues/explore?near=";
 
 // OpenWeather Info
-const openWeatherKey = "cafbdfdeeda55ab8d3a6db0dfcb3db87";
+const openWeatherKey = "45dc1d2e92f646d108fe518401d1e210";
 const weatherUrl = "https://api.openweathermap.org/data/2.5/weather";
 
 // Page Elements
